@@ -35,6 +35,8 @@
 
 <div>
   <h2 class="text-2xl font-bold">Current Weather</h2>
+
+  
   {#if weatherData}
     <p>Temperature: {weatherData.temperature}°F ({weatherData.temperatureCelsius}°C)</p>
     <p>Description: {weatherData.description}</p>
