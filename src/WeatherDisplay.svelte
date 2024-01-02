@@ -34,6 +34,9 @@
 
 
 <div>
+
+
+
   <h2 class="text-2xl font-bold">Current Weather</h2>
 
   
