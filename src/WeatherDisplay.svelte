@@ -31,6 +31,8 @@
   });
 </script>
 
+
+
 <div>
   <h2 class="text-2xl font-bold">Current Weather</h2>
   {#if weatherData}
